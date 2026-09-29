@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.archive/
+public/ruffle/
+*.log
+*.tsbuildinfo
+.DS_Store
+
+# 本地原始资料与工作记录
+*.chm
+/task_plan.md
+/findings.md
+/progress.md
+
+# 本地环境配置
+.env
+.env.*
+!.env.example

@@ -1,0 +1,371 @@
+{
+  "title": "路路解密破解游戏第一部（技术）",
+  "origin": "路路解密破解游戏(离线版).chm",
+  "levelCount": 99,
+  "resourceCount": 45,
+  "totalBytes": 1894160,
+  "verifiedCount": 65,
+  "playableCount": 40,
+  "resources": [
+    {
+      "name": "1305173054.swf",
+      "path": "/original/file/file/1305173054.swf",
+      "originalPath": "file/file/1305173054.swf",
+      "extension": "swf",
+      "size": 1583,
+      "sha256": "016fa3cb2a7ad6fe83968ff0d89771e2f9adebde6e6f4a93056eac08213a423b"
+    },
+    {
+      "name": "1305173310.swf",
+      "path": "/original/file/file/1305173310.swf",
+      "originalPath": "file/file/1305173310.swf",
+      "extension": "swf",
+      "size": 2405,
+      "sha256": "e26c2180d31aa1688719b2907339c35bd2e2cd59ef45b8b27a09d11c41525f3b"
+    },
+    {
+      "name": "1305173442.exe",
+      "path": "/original/file/file/1305173442.exe",
+      "originalPath": "file/file/1305173442.exe",
+      "extension": "exe",
+      "size": 3072,
+      "sha256": "a83f6166548348e60bbaf2928aa16f46a7bd8520b38f01cb1ec5a466e137e949"
+    },
+    {
+      "name": "1305173656.rar",
+      "path": "/original/file/file/1305173656.rar",
+      "originalPath": "file/file/1305173656.rar",
+      "extension": "rar",
+      "size": 6466,
+      "sha256": "87ef97805aeedd94353bdb18dcf5696f3f517778c0a2ac341da4ff462e3b9b8e"
+    },
+    {
+      "name": "1305174077.rar",
+      "path": "/original/file/file/1305174077.rar",
+      "originalPath": "file/file/1305174077.rar",
+      "extension": "rar",
+      "size": 9810,
+      "sha256": "4a89374804862a47a37b8571e459414a95dc6563a4cdab768b2318671d206943"
+    },
+    {
+      "name": "1305175314.exe",
+      "path": "/original/file/file/1305175314.exe",
+      "originalPath": "file/file/1305175314.exe",
+      "extension": "exe",
+      "size": 16896,
+      "sha256": "7912e69649ac9fdf28d5d3259c2c0cd380f72ec66d79e411ab061ea6d051eb3d"
+    },
+    {
+      "name": "1305175407.exe",
+      "path": "/original/file/file/1305175407.exe",
+      "originalPath": "file/file/1305175407.exe",
+      "extension": "exe",
+      "size": 18432,
+      "sha256": "546d218a4f9530ed60a67798946c6fb57a4004e243ecf927351377726359f8b9"
+    },
+    {
+      "name": "1305175850.exe",
+      "path": "/original/file/file/1305175850.exe",
+      "originalPath": "file/file/1305175850.exe",
+      "extension": "exe",
+      "size": 18432,
+      "sha256": "9e6edc2270e1d02eaee18b7772497afa2abfadd778624a0f91a2ae23c26b21b1"
+    },
+    {
+      "name": "1305176040.exe",
+      "path": "/original/file/file/1305176040.exe",
+      "originalPath": "file/file/1305176040.exe",
+      "extension": "exe",
+      "size": 11264,
+      "sha256": "015dcd649e5aaebb3a0de7b35a57a78b45e55a9a1359e41420ca2526a3b0a823"
+    },
+    {
+      "name": "1305176089.exe",
+      "path": "/original/file/file/1305176089.exe",
+      "originalPath": "file/file/1305176089.exe",
+      "extension": "exe",
+      "size": 9216,
+      "sha256": "8538b96be8ee8ba559f5d5192e1f104f6c0860366bde94ce298bdd2e956a55e4"
+    },
+    {
+      "name": "1305176361.gif",
+      "path": "/original/file/file/1305176361.gif",
+      "originalPath": "file/file/1305176361.gif",
+      "extension": "gif",
+      "size": 22572,
+      "sha256": "8dc8d2733405a88b0f8725d413912e5922cb552d912711a9999b415fc0092f42"
+    },
+    {
+      "name": "1305176562.exe",
+      "path": "/original/file/file/1305176562.exe",
+      "originalPath": "file/file/1305176562.exe",
+      "extension": "exe",
+      "size": 10240,
+      "sha256": "72009bbaf13a10ac2277318ca5d3cffff9447fa7d5fe092336390fa59cb3bddd"
+    },
+    {
+      "name": "1305207854.exe",
+      "path": "/original/file/file/1305207854.exe",
+      "originalPath": "file/file/1305207854.exe",
+      "extension": "exe",
+      "size": 20992,
+      "sha256": "3dc36b95ebfd8537d75d11a30aceb8c63b61bde89cdb9432bcdd28a196f857b9"
+    },
+    {
+      "name": "1305208392.jpg",
+      "path": "/original/file/file/1305208392.jpg",
+      "originalPath": "file/file/1305208392.jpg",
+      "extension": "jpg",
+      "size": 21125,
+      "sha256": "67e7c9b91ae6b77674ee75bf2ad731c36f51d9c2ed14881374867c495fefa62d"
+    },
+    {
+      "name": "1305247225.jpg",
+      "path": "/original/file/file/1305247225.jpg",
+      "originalPath": "file/file/1305247225.jpg",
+      "extension": "jpg",
+      "size": 43695,
+      "sha256": "4f400058f82647d2710aa6938a30cc68f363fdb226d144a06d8d9a95da424b2b"
+    },
+    {
+      "name": "1305247461.txt",
+      "path": "/original/file/file/1305247461.txt",
+      "originalPath": "file/file/1305247461.txt",
+      "extension": "txt",
+      "size": 28,
+      "sha256": "f9d118049f038cba6ac20e0e3ac4bed3b75d2907b30e29abba13e0f279140cfe"
+    },
+    {
+      "name": "1305247551.txt",
+      "path": "/original/file/file/1305247551.txt",
+      "originalPath": "file/file/1305247551.txt",
+      "extension": "txt",
+      "size": 16,
+      "sha256": "19a52a0fa59a6dcb6c6bd9b8b2ec551bf7844d2fb4ee663b5adf138d39fc2b1d"
+    },
+    {
+      "name": "1305247648.exe",
+      "path": "/original/file/file/1305247648.exe",
+      "originalPath": "file/file/1305247648.exe",
+      "extension": "exe",
+      "size": 7168,
+      "sha256": "54f538424fc66ed08fceaf13f54da1fc51dcc5f7165534275968749915859fe3"
+    },
+    {
+      "name": "1305247697.exe",
+      "path": "/original/file/file/1305247697.exe",
+      "originalPath": "file/file/1305247697.exe",
+      "extension": "exe",
+      "size": 7168,
+      "sha256": "d41ccf06799b0096061b3175354ce2757e307a1b905e05e57e452dc41b82f0d7"
+    },
+    {
+      "name": "1305247858.exe",
+      "path": "/original/file/file/1305247858.exe",
+      "originalPath": "file/file/1305247858.exe",
+      "extension": "exe",
+      "size": 20480,
+      "sha256": "8303dd06a3b3410187a71e665bf16f877eed99c429b239feabbe3270e73216bc"
+    },
+    {
+      "name": "1305247994.exe",
+      "path": "/original/file/file/1305247994.exe",
+      "originalPath": "file/file/1305247994.exe",
+      "extension": "exe",
+      "size": 13824,
+      "sha256": "c3e81275a0deb785f4c1d94f7eb08b36ac21b3e098e1113f9b0baf463a296d8a"
+    },
+    {
+      "name": "1305248336.exe",
+      "path": "/original/file/file/1305248336.exe",
+      "originalPath": "file/file/1305248336.exe",
+      "extension": "exe",
+      "size": 24064,
+      "sha256": "c5a2b3a8f54c184001ed2b19e1f1aae279660ab161810012d643e6356db95276"
+    },
+    {
+      "name": "1305248555.exe",
+      "path": "/original/file/file/1305248555.exe",
+      "originalPath": "file/file/1305248555.exe",
+      "extension": "exe",
+      "size": 24064,
+      "sha256": "8124522a4bc35672124f32543262618775bbf02d3f003f4deaf56772163def75"
+    },
+    {
+      "name": "1305248742.exe",
+      "path": "/original/file/file/1305248742.exe",
+      "originalPath": "file/file/1305248742.exe",
+      "extension": "exe",
+      "size": 29184,
+      "sha256": "677c78fe95417c4555d56d3a8db098646449b6cd8b097c0dd0bfc59c5e60611c"
+    },
+    {
+      "name": "1305249036.exe",
+      "path": "/original/file/file/1305249036.exe",
+      "originalPath": "file/file/1305249036.exe",
+      "extension": "exe",
+      "size": 29696,
+      "sha256": "76539f827c6b32b07419736d4b42318cd160fa1606602cb2dd78d67b395c2e4d"
+    },
+    {
+      "name": "1305249245.exe",
+      "path": "/original/file/file/1305249245.exe",
+      "originalPath": "file/file/1305249245.exe",
+      "extension": "exe",
+      "size": 22016,
+      "sha256": "d7384e460d6ca8380650851694f9a4e53840d0afe0468138fe12bdab7a00e691"
+    },
+    {
+      "name": "1305135663.exe",
+      "path": "/original/file/file/1305135663.exe",
+      "originalPath": "file/file/1305135663.exe",
+      "extension": "exe",
+      "size": 21504,
+      "sha256": "300df8ab213ebc7c34d3912d1715d3e389964b78472b9f3a76f4203a0be737b8"
+    },
+    {
+      "name": "1305398419.exe",
+      "path": "/original/file/file/1305398419.exe",
+      "originalPath": "file/file/1305398419.exe",
+      "extension": "exe",
+      "size": 71708,
+      "sha256": "c5c6e739224b0a1c917f36aa0b92d882e70cb599d482273f584c7e1ccac5a9a5"
+    },
+    {
+      "name": "1305398544.exe",
+      "path": "/original/file/file/1305398544.exe",
+      "originalPath": "file/file/1305398544.exe",
+      "extension": "exe",
+      "size": 387072,
+      "sha256": "a2fc500fb607ef06f414f9553202711ae5c2c8337af4c0637e33344093c509a0"
+    },
+    {
+      "name": "1305398788.exe",
+      "path": "/original/file/file/1305398788.exe",
+      "originalPath": "file/file/1305398788.exe",
+      "extension": "exe",
+      "size": 19968,
+      "sha256": "000bf0123d92c7a6ba0f34548b58b15f7a91c58cd615192626a64485a383e7ed"
+    },
+    {
+      "name": "1305399036.exe",
+      "path": "/original/file/file/1305399036.exe",
+      "originalPath": "file/file/1305399036.exe",
+      "extension": "exe",
+      "size": 11280,
+      "sha256": "c8b1d0a36231e264d5111abf287e224914d3b7f20ff1a901b7d202a62d863390"
+    },
+    {
+      "name": "1305399405.exe",
+      "path": "/original/file/file/1305399405.exe",
+      "originalPath": "file/file/1305399405.exe",
+      "extension": "exe",
+      "size": 14036,
+      "sha256": "be348b02fe31e1e5de5b8db17013c40a9b193e3ce1302a445ebd2b6f15eefee4"
+    },
+    {
+      "name": "1305402033.exe",
+      "path": "/original/file/file/1305402033.exe",
+      "originalPath": "file/file/1305402033.exe",
+      "extension": "exe",
+      "size": 388096,
+      "sha256": "e87bc89e83611550f3484182e3350bb313c7813c44ec1c79ef62633f4fe9a1aa"
+    },
+    {
+      "name": "1305402493.exe",
+      "path": "/original/file/file/1305402493.exe",
+      "originalPath": "file/file/1305402493.exe",
+      "extension": "exe",
+      "size": 17920,
+      "sha256": "bc29f1acc45392abc0f2d7b23372b8dccfbb41985a3080342e4bb13322a4f9a1"
+    },
+    {
+      "name": "1305403089.exe",
+      "path": "/original/file/file/1305403089.exe",
+      "originalPath": "file/file/1305403089.exe",
+      "extension": "exe",
+      "size": 61952,
+      "sha256": "7ac120096d7db5c0ea51e4d307dbce1b2ce8204e8361fa6a4cddcee1c5a0bd74"
+    },
+    {
+      "name": "1305403349.exe",
+      "path": "/original/file/file/1305403349.exe",
+      "originalPath": "file/file/1305403349.exe",
+      "extension": "exe",
+      "size": 24576,
+      "sha256": "b160414e9c061c08902fc1b333d447a37120c038c60759de8bff054c9968d137"
+    },
+    {
+      "name": "1305403695.rar",
+      "path": "/original/file/file/1305403695.rar",
+      "originalPath": "file/file/1305403695.rar",
+      "extension": "rar",
+      "size": 25629,
+      "sha256": "4b65fbd01e1345877ffaaf12bba276dd58af6b0da38a9285226a9629334549af"
+    },
+    {
+      "name": "1305431821.exe",
+      "path": "/original/file/file/1305431821.exe",
+      "originalPath": "file/file/1305431821.exe",
+      "extension": "exe",
+      "size": 7168,
+      "sha256": "f43b4df881ae3dc88e15bdf61d7f167b149df2aaef3a2a00ee5c2a118559fe3e"
+    },
+    {
+      "name": "1305816621.exe",
+      "path": "/original/file/file/1305816621.exe",
+      "originalPath": "file/file/1305816621.exe",
+      "extension": "exe",
+      "size": 392704,
+      "sha256": "dc039235952fa2bc2a46a1d10f0e18558051a9970c4695deab879008446f5c1e"
+    },
+    {
+      "name": "1309438606.rar",
+      "path": "/original/file/file/1309438606.rar",
+      "originalPath": "file/file/1309438606.rar",
+      "extension": "rar",
+      "size": 2570,
+      "sha256": "50014aa9fa3590fca8717aa1f1503100690ac5bb23a782c5085093172e1257bf"
+    },
+    {
+      "name": "1309439630.rar",
+      "path": "/original/file/file/1309439630.rar",
+      "originalPath": "file/file/1309439630.rar",
+      "extension": "rar",
+      "size": 2741,
+      "sha256": "d3d1575bbca2fc9ebc5a5d4fb5a91ca6d923ef397cbf916b6571307dae9afe02"
+    },
+    {
+      "name": "1309445920.rar",
+      "path": "/original/file/file/1309445920.rar",
+      "originalPath": "file/file/1309445920.rar",
+      "extension": "rar",
+      "size": 2658,
+      "sha256": "c2029fcac1281c6d7e54501f23a86a9fa588f2d8d2b38c73be73ce0514d5c136"
+    },
+    {
+      "name": "1309446426.rar",
+      "path": "/original/file/file/1309446426.rar",
+      "originalPath": "file/file/1309446426.rar",
+      "extension": "rar",
+      "size": 5590,
+      "sha256": "4fb06df597d38e62865615b0e417638e799360f72d001b825adfce6893e90070"
+    },
+    {
+      "name": "1309449065.rar",
+      "path": "/original/file/file/1309449065.rar",
+      "originalPath": "file/file/1309449065.rar",
+      "extension": "rar",
+      "size": 7179,
+      "sha256": "aa64325987e63c41f78f85b01c52886302bca8a92fa88455cf5ff81ede5d3d46"
+    },
+    {
+      "name": "1309449149.rar",
+      "path": "/original/file/file/1309449149.rar",
+      "originalPath": "file/file/1309449149.rar",
+      "extension": "rar",
+      "size": 35901,
+      "sha256": "06552bb5c48333aa6218a85345d5b49c75733a39fb7cdc60d01515f18d5350a2"
+    }
+  ]
+}

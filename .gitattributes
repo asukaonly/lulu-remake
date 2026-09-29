@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# 原始附件保持字节不变，避免换行转换影响校验。
+/public/original/** -text
